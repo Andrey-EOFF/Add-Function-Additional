@@ -127,3 +127,9 @@ header {
     }
   }
   
+
+  .out-1 {
+    width: 150px;
+    height: 50px;
+    background-color: aqua;
+  }
