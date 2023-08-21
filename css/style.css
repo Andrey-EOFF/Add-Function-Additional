@@ -129,7 +129,27 @@ header {
   
 
   .out-1 {
+    padding: 5px;
     width: 150px;
     height: 50px;
     background-color: aqua;
+    margin-bottom: 5px;
+
   }
+  .out-2 {
+    padding: 5px;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(159, 194, 194);
+    margin-bottom: 5px;
+    
+  }
+  .out-3 {
+    padding: 5px;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(99, 93, 204);
+    margin-bottom: 5px;
+    
+  }
+
